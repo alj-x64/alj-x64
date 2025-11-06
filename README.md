@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alj-x64
-- 👀 I’m interested in single girls, C#, Java, J-Pop, anime, UI design, UX design
-- 🌱 I’m currently learning C# and UX design
+- 👀 I’m interested in machine learning and data analysis
+- 🌱 I’m currently learning deep learninga nd data science
 - 💞️ I’m looking to collaborate on anyone as long they're willing too
 - 📫 How to reach me just email me at my GMail or just reach out on me on FB
 
